@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TPO6_MD_S22825:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>TPO6_MD_S22825</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="TPO6_MD_S22825-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="TPO6_MD_S22825:war exploded" />
+    </root>
+  </artifact>
+</component>
